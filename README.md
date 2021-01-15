@@ -2,6 +2,8 @@
 
 #### はじめまして!
 
+#
+
 I've been a developer for over 30 years, recently I've been expanding my learning into marketing, design, and growth. More about me here: [ianhunter.org](https://ianhunter.org)
 
 I'm the Founder of [@ctostudio](https://cto.studio) - CTO services, on demand. We pair veteran CTOs with companies looking for advice or insight into their technical organizations. 
