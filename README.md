@@ -1,12 +1,10 @@
 ### 👋 I'm Ian Hunter, I make stuff on the internet. 
 
-#### 始めまして! 日本語を勉強しています. 話そう: jp@ianhunter.org
-
 I've been a developer for over 30 years, recently I've been expanding my learning into marketing, design, and growth. More about me here: [ianhunter.org](https://ianhunter.org)
 
-I'm the Founder of [@ctostudio](https://cto.studio) - CTO services, on demand. We pair veteran CTOs with companies looking for advice or insight into their technical organizations. 
-
 _Note: Are you a senior, veteran technologist? Consider moonlighting with us for $500/hour! Contact us here: [inquiry@cto.studio](mailto:inquiry@cto.studio)_
+
+#### 始めまして! 日本語を勉強しています. 話そう: jp@ianhunter.org
 
 <!-- <details>
   <summary><b>📊 Github Stats</b></summary>
@@ -24,5 +22,10 @@ _Note: Are you a senior, veteran technologist? Consider moonlighting with us for
 
 ### January 2021
 
+[cto.studio](https://cto.studio) - *(Launched)* CTO services, on demand. 
+
 [prospect.im](https://prospect.im) _(Launching Soon)_ An SMS engagement platform for marketers & lead purchasers.
 
+### February 2021
+
+[async.app](https://async.app) _(Design Phase)_ Asynchronous communication for individuals and teams.
