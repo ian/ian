@@ -7,5 +7,3 @@ I run the product studio [01](https://01.studio). We do the early-stage build ph
 #### 始めまして! 日本語を勉強しています. 話そう: jp@ianhunter.org
 
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?&logo=twitter)](https://twitter.com/ianhunter)
-[![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?logo=dev)](https://dev.to/ianh)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?&logo=linkedin)](https://www.linkedin.com/in/ianhunter)
