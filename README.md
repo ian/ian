@@ -1,5 +1,5 @@
 ### 👋  I'm Ian.
 
-Building ribera.ai
+Building https://ribera.ai
 
 More on me: https://ianh.xyz
